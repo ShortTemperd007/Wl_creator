@@ -21,6 +21,10 @@ gcc -o wlcreator wlcreator.c
 ### Donate!
 Support the authors:
 
-Instgram Folow
+For More Inforamtion Contact
+
+Instgram 
 https://www.instagram.com/shorttemperd007/
+Twitter
+https://twitter.com/ShortTemperd007
 
